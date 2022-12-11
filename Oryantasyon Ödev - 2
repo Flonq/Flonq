@@ -1,0 +1,34 @@
+import java.util.Scanner;
+
+
+public class Ödev2 {
+	public static void main(String[] args){
+		
+		// 𝑎𝑥2 + 𝑏𝑥 + 𝑐 = 0 denklemin köklerini bulan programı Java dilinde yazınız.
+		Scanner sc = new Scanner(System.in);
+		System.out.println("(ax2+bx+c) ikinci dereceden denklemin sabit sayılarını giriniz.");
+		System.out.print("a değerini gir: ");
+		double a = sc.nextInt();
+		System.out.print("b değerini gir: ");
+		double b = sc.nextInt();
+		System.out.print("c değerini gir: ");
+		double c = sc.nextInt();
+		
+		double delta = (b*b)-(4*a*c);
+		
+		if (delta>0){
+			double x1 = ((-1*b) - Math.sqrt(delta)) / (2*a);
+			double x2 = ((-1*b) + Math.sqrt(delta)) / (2*a);
+			System.out.println("x1= " + x1 + "x2= " + x2);
+			
+		}
+		if (delta < 0){
+			System.out.println("Denklemin gerçel kökü yok.");
+		}
+		if (delta == 0){
+			double x = (-1*b) / (2*a);
+			System.out.println("Çakışık kökler var x1= x2= " + x);
+		}
+	}
+	
+}
