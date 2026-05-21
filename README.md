@@ -2,10 +2,10 @@
 
 # Merhaba, ben Mert Kaan 👋
 
-### Yazılım Mühendisliği Öğrencisi · Full Stack Developer · Game Developer
+### Yazılım Mühendisliği Öğrencisi · Full Stack & Game Developer
 
-HTML, CSS, JavaScript, React, Node.js, Python, FastAPI, C# ve Unity ile projeler geliştiriyorum.  
-Web uygulamaları, tarayıcı eklentileri, oyun geliştirme ve yapay zeka destekli sistemlerle ilgileniyorum.
+Web uygulamaları, tarayıcı eklentileri ve Unity tabanlı oyun/deneyim projeleri geliştiriyorum.  
+Modern arayüzler, backend sistemleri ve yapay zeka destekli uygulamalar üzerine çalışıyorum.
 
 </div>
 
