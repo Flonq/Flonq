@@ -60,15 +60,6 @@ Unity içinde yapay zeka destekli NPC diyalog sistemi.
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flonq&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flonq&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 ## 📫 Bana Ulaş
 
 <p align="center">
