@@ -1,16 +1,85 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Flonq/Flonq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Merhaba, ben Mert Kaan 👋
 
-Here are some ideas to get you started:
+### Yazılım Mühendisliği Öğrencisi · Full Stack Developer · Game Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML, CSS, JavaScript, React, Node.js, Python, FastAPI, C# ve Unity ile projeler geliştiriyorum.  
+Web uygulamaları, tarayıcı eklentileri, oyun geliştirme ve yapay zeka destekli sistemlerle ilgileniyorum.
+
+</div>
+
+---
+
+## 🚀 Öne Çıkan Projeler
+
+### 🛒 Scoovi
+E-ticaret sitelerinde ürünleri algılayan ve daha uygun alternatifleri gösteren Chrome/Opera tarayıcı eklentisi.
+
+- FastAPI backend
+- Chrome Extension
+- Ürün ve fiyat algılama
+- Alternatif mağaza önerileri
+- Cloud Run deployment
+
+### 🖥️ MertOS Dashboard
+Tarayıcı başlangıç sayfası olarak kullanılabilen kişisel dark/neon dashboard.
+
+- Canlı saat ve tarih
+- Günlük odak alanı
+- Todo list
+- Pomodoro timer
+- GitHub Pages yayını
+
+### 🎮 AI NPC Dialogue System
+Unity içinde yapay zeka destekli NPC diyalog sistemi.
+
+- Unity
+- C#
+- NPC profile sistemi
+- LLM tabanlı diyalog akışı
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,fastapi,cs,unity,git,github,docker,vscode" />
+</p>
+
+---
+
+## 📌 İlgi Alanlarım
+
+- Web geliştirme
+- Oyun geliştirme
+- Tarayıcı eklentileri
+- Backend sistemleri
+- Yapay zeka destekli uygulamalar
+- Modern arayüz tasarımı
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flonq&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flonq&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 📫 Bana Ulaş
+
+<p align="center">
+  <a href="https://github.com/Flonq">GitHub</a> •
+  <a href="https://scoovi.app">Scoovi</a>
+</p>
+
+---
+
+<div align="center">
+
+> Küçük ama düzenli ilerleme, büyük projelerin temelidir.
+
+</div>
