@@ -13,16 +13,14 @@ Web uygulamaları, tarayıcı eklentileri, oyun geliştirme ve yapay zeka destek
 
 ## 🚀 Öne Çıkan Projeler
 
-### 🛒 Scoovi
-E-ticaret sitelerinde ürünleri algılayan ve daha uygun alternatifleri gösteren Chrome/Opera tarayıcı eklentisi.
+### 🛒 [Scoovi](https://scoovi.app)
+Kullanıcıların alışveriş deneyimini kolaylaştırmaya yönelik geliştirilen bir tarayıcı eklentisi projesi.
 
-- FastAPI backend
-- Chrome Extension
-- Ürün ve fiyat algılama
-- Alternatif mağaza önerileri
-- Cloud Run deployment
+- Browser extension
+- Modern web arayüzü
+- Kullanıcı odaklı ürün deneyimi
 
-### 🖥️ MertOS Dashboard
+### 🖥️ [MertOS Dashboard](https://flonq.github.io/MertOS-Dashboard/)
 Tarayıcı başlangıç sayfası olarak kullanılabilen kişisel dark/neon dashboard.
 
 - Canlı saat ve tarih
