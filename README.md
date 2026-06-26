@@ -14,30 +14,38 @@ Modern arayüzler, backend sistemleri ve yapay zeka destekli uygulamalar üzerin
 ## 🚀 Öne Çıkan Projeler
 
 ### 🛒 [Scoovi](https://scoovi.app)
-Kullanıcıların alışveriş deneyimini kolaylaştırmaya yönelik geliştirilen bir tarayıcı eklentisi projesi.
 
-- Browser extension
-- Modern web arayüzü
-- Kullanıcı odaklı ürün deneyimi
+Kullanıcıların online alışveriş sırasında ürünleri daha bilinçli karşılaştırabilmesi için geliştirilen akıllı alışveriş asistanı.
 
-### 🖥️ [MertOS Dashboard](https://flonq.github.io/MertOS-Dashboard/)
-Tarayıcı başlangıç sayfası olarak kullanılabilen kişisel dark/neon dashboard.
+Scoovi, desteklenen e-ticaret sitelerindeki ürün sayfalarını analiz ederek kullanıcıya alternatif satın alma seçenekleri sunmayı hedefler. Proje; tarayıcı eklentisi, modern web arayüzü ve backend servisleriyle daha pratik bir alışveriş deneyimi oluşturmak üzerine geliştirilmektedir.
 
-- Canlı saat ve tarih
-- Günlük odak alanı
-- Todo list
-- Pomodoro timer
-- GitHub Pages yayını
+* Browser extension
+* Modern landing page
+* FastAPI tabanlı backend yapısı
+* Ürün sayfası analiz mantığı
+* Alternatif ürün / fiyat karşılaştırma yaklaşımı
+* Kullanıcı odaklı alışveriş deneyimi
+* Docker destekli backend geliştirme ortamı
 
-### 🎮 AI NPC Dialogue System
-Unity içinde yapay zeka destekli NPC diyalog sistemi.
 
-- Unity
-- C#
-- NPC profile sistemi
-- LLM tabanlı diyalog akışı
+### 🎮 [AI NPC Dialogue System](https://github.com/Flonq/ai-npc-dialogue-system)
 
-### 🐟 [AR Balık Müzesi](https://github.com/AR-Fish-Museum/fish-museum-ar.git)
+Unity 6 ile geliştirilen, oyuncunun NPC karakterlerle yapay zeka destekli ve seçim tabanlı diyalog kurabildiği bir FPS prototipi.
+
+Oyuncu bir NPC’ye baktığında etkileşime geçer, diyalog sistemi local LLM üzerinden NPC cevabını ve oyuncuya sunulacak seçenekleri dinamik olarak üretir. Diyaloglar hazır yazılmış sabit metinler yerine, konuşma geçmişi ve NPC bağlamına göre anlık oluşturulur.
+
+* Unity 6 / C#
+* First-person controller
+* Raycast tabanlı NPC etkileşimi
+* LM Studio ile local LLM entegrasyonu
+* REST API üzerinden `/v1/chat/completions` kullanımı
+* JSON schema ile kontrollü NPC cevabı ve seçim üretimi
+* Her turda dinamik NPC cevabı ve 3 oyuncu seçeneği
+* Oturum bazlı konuşma geçmişi
+* Modüler Player / Dialogue / AI mimarisi
+
+
+### 🐟 [AR Balık Müzesi](https://github.com/AR-Fish-Museum/fish-museum-ar)
 
 Unity 6 ile geliştirilen, artırılmış gerçeklik destekli ve oyunlaştırılmış öğrenme odaklı mobil eğitim uygulaması.
 
@@ -54,6 +62,22 @@ Unity 6 ile geliştirilen, artırılmış gerçeklik destekli ve oyunlaştırıl
 * Android cihazda gerçek build ve test
 
 🎬 [Tanıtım Videosu](https://www.youtube.com/watch?v=oxRk6NoB1nU)
+
+
+### 🖥️ [MertOS Dashboard](https://flonq.github.io/MertOS-Dashboard/)
+
+Tarayıcı başlangıç sayfası olarak kullanılmak üzere geliştirilen kişisel dark/neon dashboard projesi.
+
+MertOS Dashboard; günlük kullanımda ihtiyaç duyulan hızlı bağlantıları, saat ve tarih bilgisini, odak hissi veren sade bir arayüzle tek ekranda sunar. Proje, kişisel üretkenlik paneli mantığıyla HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
+
+* HTML / CSS / JavaScript
+* Dark / neon / glassmorphism arayüz
+* Canlı saat ve tarih alanı
+* Hızlı kısayollar bölümü
+* Günlük motivasyon cümlesi
+* Responsive tasarım
+* LocalStorage ile kalıcı veri saklama
+* GitHub Pages yayını
 
 ---
 
