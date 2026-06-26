@@ -37,12 +37,30 @@ Unity içinde yapay zeka destekli NPC diyalog sistemi.
 - NPC profile sistemi
 - LLM tabanlı diyalog akışı
 
+### 🐟 [AR Balık Müzesi](https://github.com/AR-Fish-Museum/fish-museum-ar.git)
+
+Unity 6 ile geliştirilen, artırılmış gerçeklik destekli ve oyunlaştırılmış öğrenme odaklı mobil eğitim uygulaması.
+
+Öğrenciler sınıf/PIN ile giriş yaparak öğretmen tarafından oluşturulan quiz sorularını çözer, sonuç ekranından balık galerisine geçer ve seçtiği balığı AR sahnesinde hareketli şekilde görüntüler.
+
+* Unity 6 / C#
+* AR Foundation & ARCore
+* Supabase REST API entegrasyonu
+* Öğrenci / öğretmen giriş sistemi
+* Öğretmen paneli ile soru ekleme, düzenleme ve silme
+* Quiz, puanlama ve sonuç ekranı
+* Balık Galerisi ve seçilen balığı AR sahnesine taşıma
+* AR ortamında görünmez 3D alanda hareket eden balık sistemi
+* Android cihazda gerçek build ve test
+
+🎬 [Tanıtım Videosu](https://www.youtube.com/watch?v=oxRk6NoB1nU)
+
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,fastapi,cs,unity,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,fastapi,cs,unity,supabase,git,github,docker,vscode" />
 </p>
 
 ---
