@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="./assets/liquid-signal-hero.svg" alt="Mert Kaan Kindar — Software Engineer" width="100%" />
+  <img src="./assets/obsidian-hero.svg" alt="Mert Kaan Kindar — Software Engineer" width="100%" />
 </p>
 
 <p align="center">
   <sub>
-    <a href="#selected-work"><strong>SELECTED WORK</strong></a>
+    <a href="#selected-work">SELECTED WORK</a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="#currently-building"><strong>CURRENT BUILD</strong></a>
+    <a href="#current-build">CURRENT BUILD</a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="#engineering-stack"><strong>STACK</strong></a>
+    <a href="#engineering-stack">STACK</a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="#about"><strong>ABOUT</strong></a>
+    <a href="#about">ABOUT</a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="#connect"><strong>CONNECT</strong></a>
+    <a href="#connect">CONNECT</a>
   </sub>
 </p>
 
@@ -22,21 +22,19 @@
 ## 01 / SELECTED WORK
 
 <p align="center">
-  <a href="https://scoovi.app/"><img src="./assets/project-scoovi.svg" alt="Scoovi" width="32%" /></a>
-  <a href="https://github.com/Flonq/ai-npc-dialogue-system"><img src="./assets/project-ai-npc.svg" alt="AI NPC Dialogue System" width="32%" /></a>
-  <a href="https://github.com/Flonq/Brave-Startpage"><img src="./assets/project-brave-startpage.svg" alt="Brave Startpage" width="32%" /></a>
+  <a href="https://scoovi.app/"><img src="./assets/obsidian-scoovi.svg" alt="Scoovi" width="32%" /></a>
+  <a href="https://github.com/Flonq/ai-npc-dialogue-system"><img src="./assets/obsidian-ai-npc.svg" alt="AI NPC Dialogue System" width="32%" /></a>
+  <a href="https://github.com/Flonq/Brave-Startpage"><img src="./assets/obsidian-brave.svg" alt="Brave Startpage" width="32%" /></a>
 </p>
 
 <br/>
 
-<a id="currently-building"></a>
-## 02 / CURRENTLY BUILDING
+<a id="current-build"></a>
+## 02 / CURRENT BUILD
 
 <p align="center">
-  <a href="https://github.com/Flonq/uav-flight-simulator"><img src="./assets/current-uav.svg" alt="UAV Flight Simulator — currently building" width="100%" /></a>
+  <a href="https://github.com/Flonq/uav-flight-simulator"><img src="./assets/obsidian-uav.svg" alt="UAV Flight Simulator — active development" width="100%" /></a>
 </p>
-
-Built without a prepackaged flight framework: input, physics, aircraft systems, telemetry and mission logic are separated into explainable modules that can evolve independently.
 
 <br/>
 
@@ -44,7 +42,7 @@ Built without a prepackaged flight framework: input, physics, aircraft systems, 
 ## 03 / ENGINEERING STACK
 
 <p align="center">
-  <img src="./assets/engineering-stack.svg" alt="Core engineering stack" width="100%" />
+  <img src="./assets/obsidian-stack.svg" alt="Core engineering stack" width="100%" />
 </p>
 
 <details>
@@ -60,7 +58,7 @@ Python · FastAPI · Supabase · Docker · C++ · GlistEngine · Electron · Loc
 <a id="about"></a>
 ## 04 / ABOUT
 
-I build software across **game systems, interactive interfaces and AI-assisted products**, with an emphasis on clear architecture and polished execution. I prefer small, understandable modules, deliberate technical decisions and documentation that makes systems easier to explain, maintain and extend.
+I build software across **game systems, interactive interfaces and AI-assisted products**. My work focuses on understandable architecture, deliberate technical decisions and software that feels complete rather than merely functional.
 
 <br/>
 
@@ -68,7 +66,7 @@ I build software across **game systems, interactive interfaces and AI-assisted p
 ## 05 / GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Flonq&show_icons=true&hide_rank=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=7DEBFF&text_color=AEB8C7&icon_color=7DEBFF&ring_color=7DEBFF&include_all_commits=true" alt="Mert Kaan's GitHub activity" width="54%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Flonq&show_icons=true&hide_rank=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=D9D4C8&text_color=AEB4BD&icon_color=C7C1B7&ring_color=C7C1B7&include_all_commits=true" alt="Mert Kaan's GitHub activity" width="50%" />
 </p>
 
 <br/>
@@ -77,15 +75,17 @@ I build software across **game systems, interactive interfaces and AI-assisted p
 ## 06 / CONNECT
 
 <p align="center">
-  <a href="mailto:mertkaankindar@hotmail.com"><strong>EMAIL ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Flonq"><strong>GITHUB ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://scoovi.app/"><strong>SCOOVI ↗</strong></a>
+  <sub>
+    <a href="mailto:mertkaankindar@hotmail.com"><strong>EMAIL ↗</strong></a>
+    &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Flonq"><strong>GITHUB ↗</strong></a>
+    &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+    <a href="https://scoovi.app/"><strong>SCOOVI ↗</strong></a>
+  </sub>
 </p>
 
 <br/>
 
-<p align="center">
-  <sub>FLONQ / SOFTWARE ENGINEERING · GAME / AI / WEB SYSTEMS</sub>
+<p align="right">
+  <sub>// FLONQ &nbsp;·&nbsp; SOFTWARE ENGINEERING &nbsp;·&nbsp; GAME / AI / WEB SYSTEMS</sub>
 </p>
