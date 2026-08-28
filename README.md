@@ -19,7 +19,7 @@
 <br/>
 
 <a id="selected-work"></a>
-## 01 / SELECTED WORK
+## SELECTED WORK
 
 <p align="center">
   <a href="https://scoovi.app/"><img src="./assets/obsidian-scoovi.svg" alt="Scoovi" width="32%" /></a>
@@ -30,7 +30,7 @@
 <br/>
 
 <a id="current-build"></a>
-## 02 / CURRENT BUILD
+## CURRENT BUILD
 
 <p align="center">
   <a href="https://github.com/Flonq/uav-flight-simulator"><img src="./assets/obsidian-uav.svg" alt="UAV Flight Simulator — active development" width="100%" /></a>
@@ -39,7 +39,7 @@
 <br/>
 
 <a id="engineering-stack"></a>
-## 03 / ENGINEERING STACK
+## ENGINEERING STACK
 
 <p align="center">
   <img src="./assets/obsidian-stack.svg" alt="Core engineering stack" width="100%" />
@@ -56,14 +56,14 @@ Python · FastAPI · Supabase · Docker · C++ · GlistEngine · Electron · Loc
 <br/>
 
 <a id="about"></a>
-## 04 / ABOUT
+## ABOUT
 
 I build software across **game systems, interactive interfaces and AI-assisted products**. My work focuses on understandable architecture, deliberate technical decisions and software that feels complete rather than merely functional.
 
 <br/>
 
 <a id="github-activity"></a>
-## 05 / GITHUB ACTIVITY
+## GITHUB ACTIVITY
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Flonq&show_icons=true&hide_rank=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=D9D4C8&text_color=AEB4BD&icon_color=C7C1B7&ring_color=C7C1B7&include_all_commits=true" alt="Mert Kaan's GitHub activity" width="50%" />
@@ -72,7 +72,7 @@ I build software across **game systems, interactive interfaces and AI-assisted p
 <br/>
 
 <a id="connect"></a>
-## 06 / CONNECT
+## CONNECT
 
 <p align="center">
   <sub>
@@ -86,6 +86,6 @@ I build software across **game systems, interactive interfaces and AI-assisted p
 
 <br/>
 
-<p align="right">
-  <sub>// FLONQ &nbsp;·&nbsp; SOFTWARE ENGINEERING &nbsp;·&nbsp; GAME / AI / WEB SYSTEMS</sub>
+<p align="center">
+  <sub>FLONQ &nbsp;·&nbsp; SOFTWARE ENGINEERING &nbsp;·&nbsp; GAME / AI / WEB SYSTEMS</sub>
 </p>
