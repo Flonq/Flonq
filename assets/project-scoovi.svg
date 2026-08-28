@@ -3,8 +3,8 @@
 <desc>Smart shopping assistant built with React, Vite and FastAPI.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="360" y2="230"><stop stop-color="#090D13"/><stop offset="1" stop-color="#0D121A"/></linearGradient>
-  <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(62 32) rotate(39) scale(180 125)"><stop stop-color="#7DEBFF" stop-opacity=".20"/><stop offset="1" stop-color="#7DEBFF" stop-opacity="0"/></radialGradient>
-  <linearGradient id="edge" x1="20" y1="20" x2="340" y2="210"><stop stop-color="#DDFBFF" stop-opacity=".45"/><stop offset=".55" stop-color="#7DEBFF" stop-opacity=".20"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".08"/></linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(62 32) rotate(39) scale(180 125)"><stop stop-color="#7DEBFF" stop-opacity=".10"/><stop offset="1" stop-color="#7DEBFF" stop-opacity="0"/></radialGradient>
+  <linearGradient id="edge" x1="20" y1="20" x2="340" y2="210"><stop stop-color="#DDFBFF" stop-opacity=".38"/><stop offset=".55" stop-color="#7DEBFF" stop-opacity=".16"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".08"/></linearGradient>
 </defs>
 <rect width="360" height="230" rx="22" fill="url(#bg)"/>
 <rect width="360" height="230" rx="22" fill="url(#glow)"/>
