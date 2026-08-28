@@ -1,0 +1,26 @@
+<svg width="360" height="220" viewBox="0 0 360 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<title>AI NPC Dialogue System — selected work</title>
+<desc>Editorial project card for a Unity dialogue system powered by a local language model.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="360" y2="220"><stop stop-color="#090A0C"/><stop offset="1" stop-color="#0C0D10"/></linearGradient>
+  <linearGradient id="edge" x1="12" y1="12" x2="348" y2="208"><stop stop-color="#EEEAE2" stop-opacity=".20"/><stop offset=".55" stop-color="#B9B4AA" stop-opacity=".10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".05"/></linearGradient>
+</defs>
+<rect width="360" height="220" rx="16" fill="url(#bg)"/>
+<rect x=".75" y=".75" width="358.5" height="218.5" rx="15.25" stroke="url(#edge)" stroke-width="1.5"/>
+
+<g transform="translate(23 22)" stroke="#CFC9BE" stroke-opacity=".68" stroke-width="1">
+  <path d="M3 7L14 1L25 7V19L14 25L3 19V7Z"/>
+  <path d="M14 1V25M3 7L25 19M25 7L3 19" stroke-opacity=".30"/>
+  <circle cx="14" cy="13" r="2.5" fill="#CFC9BE" fill-opacity=".55" stroke="none"/>
+</g>
+
+<text x="22" y="82" fill="#ECE8DF" font-family="Georgia, Times New Roman, serif" font-size="21.5" letter-spacing=".45">AI NPC DIALOGUE</text>
+<text x="22" y="106" fill="#ECE8DF" font-family="Georgia, Times New Roman, serif" font-size="21.5" letter-spacing=".45">SYSTEM</text>
+<text x="22" y="132" fill="#A9AFB8" font-family="Segoe UI, Arial, sans-serif" font-size="13">Dynamic NPC dialogue and player choices</text>
+<text x="22" y="151" fill="#A9AFB8" font-family="Segoe UI, Arial, sans-serif" font-size="13">generated through a local language model.</text>
+
+<line x1="22" y1="168" x2="338" y2="168" stroke="#FFFFFF" stroke-opacity=".065"/>
+<text x="22" y="190" fill="#7D838C" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10.2" letter-spacing=".95">UNITY 6 · C# · LOCAL LLM</text>
+<text x="22" y="210" fill="#C7C1B7" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10.2" letter-spacing="1.1">OPEN REPOSITORY</text>
+<path d="M316 206H337M331 200L337 206L331 212" stroke="#B8B2A8" stroke-opacity=".75"/>
+</svg>
