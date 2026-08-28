@@ -1,94 +1,57 @@
-<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
-<title>Mert Kaan Kindar — Obsidian Index</title>
-<desc>Editorial profile hero for Mert Kaan Kindar, Software Engineer working across game, AI and web systems.</desc>
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<title>Mert Kaan Kindar — Software Engineer</title>
+<desc>Minimal editorial profile hero for Mert Kaan Kindar, working across game, AI and web systems.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#07080A"/>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#08090B"/>
     <stop offset="0.58" stop-color="#0A0B0E"/>
-    <stop offset="1" stop-color="#0D0E11"/>
+    <stop offset="1" stop-color="#0C0D10"/>
   </linearGradient>
-  <radialGradient id="softLight" cx="0" cy="0" r="1" gradientTransform="translate(245 105) rotate(28) scale(390 220)" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#D9D4C8" stop-opacity="0.075"/>
+  <radialGradient id="softLight" cx="0" cy="0" r="1" gradientTransform="translate(240 82) rotate(27) scale(410 230)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#D9D4C8" stop-opacity="0.05"/>
     <stop offset="1" stop-color="#D9D4C8" stop-opacity="0"/>
   </radialGradient>
-  <linearGradient id="hairline" x1="70" y1="50" x2="1130" y2="380" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#F1EEE7" stop-opacity="0.22"/>
-    <stop offset="0.5" stop-color="#B9B4AA" stop-opacity="0.10"/>
-    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.06"/>
+  <linearGradient id="border" x1="35" y1="28" x2="1160" y2="372" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#F1EEE7" stop-opacity="0.20"/>
+    <stop offset="0.5" stop-color="#B9B4AA" stop-opacity="0.09"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.05"/>
   </linearGradient>
-  <linearGradient id="nameFill" x1="75" y1="154" x2="690" y2="260" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#F4F1EA"/>
-    <stop offset="0.55" stop-color="#E7E3DB"/>
-    <stop offset="1" stop-color="#BEB9AF"/>
+  <linearGradient id="nameFill" x1="72" y1="130" x2="695" y2="220" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#F1EEE7"/>
+    <stop offset="0.62" stop-color="#E7E3DB"/>
+    <stop offset="1" stop-color="#C9C4BA"/>
   </linearGradient>
-  <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
-    <stop offset="0.48" stop-color="#FFFFFF" stop-opacity="0"/>
-    <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.42"/>
-    <stop offset="0.52" stop-color="#FFFFFF" stop-opacity="0"/>
-    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
-  </linearGradient>
-  <clipPath id="nameClip">
-    <text x="76" y="221" font-family="Georgia, Times New Roman, serif" font-size="64" letter-spacing="1.8">MERT KAAN KINDAR</text>
-  </clipPath>
   <filter id="grain" x="0" y="0" width="100%" height="100%">
     <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
     <feColorMatrix type="saturate" values="0"/>
-    <feComponentTransfer><feFuncA type="table" tableValues="0 0.035"/></feComponentTransfer>
-  </filter>
-  <filter id="dotGlow" x="-200%" y="-200%" width="500%" height="500%">
-    <feGaussianBlur stdDeviation="3.4" result="b"/>
-    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <feComponentTransfer><feFuncA type="table" tableValues="0 0.028"/></feComponentTransfer>
   </filter>
 </defs>
 
-<rect width="1200" height="430" rx="24" fill="url(#bg)"/>
-<rect width="1200" height="430" rx="24" fill="url(#softLight)"/>
-<rect x="0.75" y="0.75" width="1198.5" height="428.5" rx="23.25" stroke="url(#hairline)" stroke-width="1.5"/>
-<rect width="1200" height="430" rx="24" filter="url(#grain)" opacity="0.34"/>
+<rect width="1200" height="400" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="400" rx="28" fill="url(#softLight)"/>
+<rect x="0.75" y="0.75" width="1198.5" height="398.5" rx="27.25" stroke="url(#border)" stroke-width="1.5"/>
+<rect width="1200" height="400" rx="28" filter="url(#grain)" opacity="0.28"/>
 
-<!-- editorial corner marks -->
-<path d="M54 72V52H74" stroke="#E9E5DC" stroke-opacity="0.28" stroke-width="1.2"/>
-<path d="M1146 358V378H1126" stroke="#E9E5DC" stroke-opacity="0.16" stroke-width="1.2"/>
+<text x="72" y="174" fill="url(#nameFill)" font-family="Georgia, Times New Roman, serif" font-size="62" font-weight="600" letter-spacing="0.8">MERT KAAN KINDAR</text>
 
-<text x="76" y="76" fill="#C8C3B9" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="4">// FLONQ</text>
-<text x="1124" y="76" text-anchor="end" fill="#77746D" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10" letter-spacing="3">OBSIDIAN / 01</text>
+<text x="74" y="218" fill="#CFC7BC" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="3.5">SOFTWARE ENGINEER · GAME / AI / WEB SYSTEMS</text>
 
-<text x="76" y="221" fill="url(#nameFill)" font-family="Georgia, Times New Roman, serif" font-size="64" letter-spacing="1.8">MERT KAAN KINDAR</text>
-<g clip-path="url(#nameClip)" opacity="0.65">
-  <rect x="-400" y="145" width="280" height="100" fill="url(#sweep)" transform="skewX(-18)">
-    <animate attributeName="x" values="-420;900;900" keyTimes="0;0.22;1" dur="14s" repeatCount="indefinite"/>
-  </rect>
+<text x="74" y="273" fill="#B8BEC8" font-family="Segoe UI, Arial, sans-serif" font-size="16">I build interactive software across simulation, game systems and modern web experiences —</text>
+<text x="74" y="300" fill="#969EAA" font-family="Segoe UI, Arial, sans-serif" font-size="15">with an emphasis on clear architecture and purposeful execution.</text>
+
+<text x="74" y="350" fill="#8F96A0" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.2">CURRENT BUILD</text>
+<text x="198" y="350" fill="#E2DDD5" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.2">UAV FLIGHT SIMULATOR</text>
+
+<!-- Minimal orbital geometry: decorative only -->
+<g opacity="0.46">
+  <line x1="930" y1="112" x2="930" y2="306" stroke="#E6E1D7" stroke-opacity="0.13"/>
+  <ellipse cx="930" cy="210" rx="112" ry="48" transform="rotate(-18 930 210)" stroke="#E6E1D7" stroke-opacity="0.15"/>
+  <ellipse cx="930" cy="210" rx="99" ry="70" transform="rotate(30 930 210)" stroke="#E6E1D7" stroke-opacity="0.09"/>
+  <path d="M827 274C887 303 983 270 1012 176" stroke="#E6E1D7" stroke-opacity="0.16"/>
+  <circle cx="930" cy="141" r="2.8" fill="#ECE6DC" fill-opacity="0.72"/>
+  <circle cx="930" cy="210" r="2.2" fill="#D7D1C7" fill-opacity="0.60"/>
+  <circle cx="827" cy="274" r="2" fill="#C2BCB2" fill-opacity="0.48"/>
+  <circle cx="1012" cy="176" r="1.8" fill="#B5AFA5" fill-opacity="0.42"/>
 </g>
-
-<text x="78" y="263" fill="#BDB8AE" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="4">SOFTWARE ENGINEER · GAME / AI / WEB SYSTEMS</text>
-
-<text x="78" y="316" fill="#B7BDC7" font-family="Segoe UI, Arial, sans-serif" font-size="16">I build interactive software across simulation, game systems and modern web experiences —</text>
-<text x="78" y="342" fill="#8F959F" font-family="Segoe UI, Arial, sans-serif" font-size="15">with an emphasis on clear architecture and purposeful execution.</text>
-
-<g transform="translate(78 377)">
-  <circle cx="6" cy="6" r="3.2" fill="#EAE1C7" filter="url(#dotGlow)">
-    <animate attributeName="opacity" values="0.42;0.95;0.42" dur="3.8s" repeatCount="indefinite"/>
-  </circle>
-  <text x="22" y="10" fill="#99958C" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10" letter-spacing="2">CURRENTLY BUILDING</text>
-  <text x="180" y="10" fill="#D2CDC3" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10" letter-spacing="2">UAV FLIGHT SIMULATOR</text>
-</g>
-
-<!-- restrained orbital system -->
-<g opacity="0.62">
-  <line x1="910" y1="114" x2="910" y2="335" stroke="#C9C4BA" stroke-opacity="0.18"/>
-  <line x1="800" y1="224" x2="1026" y2="224" stroke="#C9C4BA" stroke-opacity="0.08"/>
-  <ellipse cx="910" cy="224" rx="136" ry="58" transform="rotate(-18 910 224)" stroke="#C9C4BA" stroke-opacity="0.18"/>
-  <ellipse cx="910" cy="224" rx="122" ry="86" transform="rotate(31 910 224)" stroke="#C9C4BA" stroke-opacity="0.11"/>
-  <path d="M789 300C861 335 982 292 1015 186" stroke="#D8D2C7" stroke-opacity="0.22"/>
-  <circle cx="910" cy="145" r="3.2" fill="#DED8CE"/>
-  <circle cx="910" cy="224" r="2.5" fill="#C7C1B7"/>
-  <circle cx="789" cy="300" r="2.4" fill="#A49F96"/>
-  <circle cx="1015" cy="186" r="2" fill="#8F8A81"/>
-  <circle cx="982" cy="292" r="1.8" fill="#8F8A81"/>
-  <text x="1034" y="165" fill="#77736B" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9" letter-spacing="1.7">SYSTEM / 01</text>
-  <text x="1034" y="181" fill="#5E5B55" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="8" letter-spacing="1.4">ENGINEERING → INTERACTION</text>
-</g>
-
-<text x="1124" y="386" text-anchor="end" fill="#5F5C56" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9" letter-spacing="2">QUIET SYSTEMS · DELIBERATE SOFTWARE</text>
 </svg>
