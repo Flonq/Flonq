@@ -1,4 +1,6 @@
 <svg width="360" height="230" viewBox="0 0 360 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+<title>Brave Startpage — selected interface work</title>
+<desc>Dark browser startpage with custom lighting, motion and quick access tools.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="360" y2="230"><stop stop-color="#090D13"/><stop offset="1" stop-color="#0D121A"/></linearGradient>
   <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(298 188) rotate(-150) scale(190 132)"><stop stop-color="#8F6BFF" stop-opacity=".18"/><stop offset="1" stop-color="#8F6BFF" stop-opacity="0"/></radialGradient>
@@ -7,12 +9,12 @@
 <rect width="360" height="230" rx="22" fill="url(#bg)"/>
 <rect width="360" height="230" rx="22" fill="url(#glow)"/>
 <rect x=".75" y=".75" width="358.5" height="228.5" rx="21.25" stroke="url(#edge)" stroke-width="1.5"/>
-<text x="24" y="34" fill="#B29DFF" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.4">03 / INTERFACE</text>
-<text x="24" y="82" fill="#F5F8FC" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">BRAVE STARTPAGE</text>
-<text x="24" y="108" fill="#AAB5C4" font-family="Arial, Helvetica, sans-serif" font-size="13">A dark browser startpage shaped around</text>
-<text x="24" y="127" fill="#AAB5C4" font-family="Arial, Helvetica, sans-serif" font-size="13">custom lighting, motion and fast access.</text>
+<text x="24" y="34" fill="#B29DFF" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10" letter-spacing="2">03 / INTERFACE</text>
+<text x="24" y="82" fill="#F5F8FC" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" letter-spacing=".25">BRAVE STARTPAGE</text>
+<text x="24" y="108" fill="#AAB5C4" font-family="Segoe UI, Arial, sans-serif" font-size="13">A dark browser startpage shaped around</text>
+<text x="24" y="127" fill="#AAB5C4" font-family="Segoe UI, Arial, sans-serif" font-size="13">custom lighting, motion and fast access.</text>
 <line x1="24" y1="152" x2="336" y2="152" stroke="#FFFFFF" stroke-opacity=".08"/>
-<text x="24" y="180" fill="#7F8A99" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.2">HTML  ·  CSS  ·  JAVASCRIPT  ·  VITE</text>
-<text x="24" y="207" fill="#C8D2DF" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.5">OPEN REPOSITORY  ↗</text>
+<text x="24" y="180" fill="#7F8A99" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10" letter-spacing=".85">HTML · CSS · JAVASCRIPT · VITE</text>
+<text x="24" y="207" fill="#D4DEE9" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9.5" letter-spacing="1.2">OPEN REPOSITORY  ↗</text>
 <circle cx="324" cy="32" r="4" fill="#A890FF"><animate attributeName="opacity" values=".35;1;.35" dur="4s" repeatCount="indefinite"/></circle>
 </svg>
