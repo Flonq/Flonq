@@ -33,7 +33,7 @@
 ## 02 / CURRENTLY BUILDING
 
 <p align="center">
-  <img src="./assets/current-uav.svg" alt="UAV Flight Simulator — currently building" width="100%" />
+  <a href="https://github.com/Flonq/uav-flight-simulator"><img src="./assets/current-uav.svg" alt="UAV Flight Simulator — currently building" width="100%" /></a>
 </p>
 
 Built without a prepackaged flight framework: input, physics, aircraft systems, telemetry and mission logic are separated into explainable modules that can evolve independently.
