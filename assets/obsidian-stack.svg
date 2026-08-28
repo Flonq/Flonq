@@ -1,0 +1,28 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<title>Engineering Stack — Obsidian Index</title>
+<desc>Core engineering stack grouped into game and interactive, web and interface, and workflow.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220"><stop stop-color="#08090B"/><stop offset="1" stop-color="#0C0D10"/></linearGradient>
+  <linearGradient id="edge" x1="36" y1="20" x2="1160" y2="200"><stop stop-color="#EEEAE2" stop-opacity=".16"/><stop offset=".52" stop-color="#B9B4AA" stop-opacity=".08"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".04"/></linearGradient>
+</defs>
+<rect width="1200" height="220" rx="18" fill="url(#bg)"/>
+<rect x=".75" y=".75" width="1198.5" height="218.5" rx="17.25" stroke="url(#edge)" stroke-width="1.5"/>
+
+<line x1="400" y1="32" x2="400" y2="188" stroke="#FFFFFF" stroke-opacity=".055"/>
+<line x1="800" y1="32" x2="800" y2="188" stroke="#FFFFFF" stroke-opacity=".055"/>
+
+<text x="38" y="45" fill="#77736C" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9" letter-spacing="1.8">GAME &amp; INTERACTIVE</text>
+<text x="38" y="89" fill="#E8E4DC" font-family="Georgia, Times New Roman, serif" font-size="24">Unity</text>
+<text x="38" y="122" fill="#E8E4DC" font-family="Georgia, Times New Roman, serif" font-size="24">C#</text>
+<text x="38" y="180" fill="#686D75" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="8.8" letter-spacing="1.35">SIMULATION / GAME SYSTEMS</text>
+
+<text x="438" y="45" fill="#77736C" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9" letter-spacing="1.8">WEB &amp; INTERFACE</text>
+<text x="438" y="88" fill="#E8E4DC" font-family="Georgia, Times New Roman, serif" font-size="20">HTML · CSS · JavaScript</text>
+<text x="438" y="121" fill="#E8E4DC" font-family="Georgia, Times New Roman, serif" font-size="20">React · Vite</text>
+<text x="438" y="180" fill="#686D75" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="8.8" letter-spacing="1.2">PRODUCT UI / BROWSER EXPERIENCES</text>
+
+<text x="838" y="45" fill="#77736C" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9" letter-spacing="1.8">WORKFLOW</text>
+<text x="838" y="88" fill="#E8E4DC" font-family="Georgia, Times New Roman, serif" font-size="20">Git · GitHub</text>
+<text x="838" y="121" fill="#E8E4DC" font-family="Georgia, Times New Roman, serif" font-size="20">VS Code</text>
+<text x="838" y="180" fill="#686D75" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="8.8" letter-spacing="1.25">VERSIONING / DEVELOPMENT TOOLING</text>
+</svg>
