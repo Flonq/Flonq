@@ -8,22 +8,19 @@
 <rect width="360" height="220" rx="16" fill="url(#bg)"/>
 <rect x=".75" y=".75" width="358.5" height="218.5" rx="15.25" stroke="url(#edge)" stroke-width="1.5"/>
 
-<text x="22" y="30" fill="#77736C" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9" letter-spacing="1.8">02 / GAME + AI</text>
-
-<!-- abstract dialogue lattice -->
-<g transform="translate(23 48)" stroke="#CFC9BE" stroke-opacity=".68" stroke-width="1">
+<g transform="translate(23 22)" stroke="#CFC9BE" stroke-opacity=".68" stroke-width="1">
   <path d="M3 7L14 1L25 7V19L14 25L3 19V7Z"/>
   <path d="M14 1V25M3 7L25 19M25 7L3 19" stroke-opacity=".30"/>
   <circle cx="14" cy="13" r="2.5" fill="#CFC9BE" fill-opacity=".55" stroke="none"/>
 </g>
 
-<text x="22" y="96" fill="#ECE8DF" font-family="Georgia, Times New Roman, serif" font-size="21" letter-spacing=".45">AI NPC DIALOGUE</text>
-<text x="22" y="119" fill="#ECE8DF" font-family="Georgia, Times New Roman, serif" font-size="21" letter-spacing=".45">SYSTEM</text>
-<text x="22" y="142" fill="#A9AFB8" font-family="Segoe UI, Arial, sans-serif" font-size="12">Dynamic NPC dialogue and player choices</text>
-<text x="22" y="159" fill="#A9AFB8" font-family="Segoe UI, Arial, sans-serif" font-size="12">generated through a local language model.</text>
+<text x="22" y="82" fill="#ECE8DF" font-family="Georgia, Times New Roman, serif" font-size="21.5" letter-spacing=".45">AI NPC DIALOGUE</text>
+<text x="22" y="106" fill="#ECE8DF" font-family="Georgia, Times New Roman, serif" font-size="21.5" letter-spacing=".45">SYSTEM</text>
+<text x="22" y="132" fill="#A9AFB8" font-family="Segoe UI, Arial, sans-serif" font-size="13">Dynamic NPC dialogue and player choices</text>
+<text x="22" y="151" fill="#A9AFB8" font-family="Segoe UI, Arial, sans-serif" font-size="13">generated through a local language model.</text>
 
-<line x1="22" y1="174" x2="338" y2="174" stroke="#FFFFFF" stroke-opacity=".065"/>
-<text x="22" y="192" fill="#747A84" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="8.8" letter-spacing=".95">UNITY 6 · C# · LOCAL LLM</text>
-<text x="22" y="208" fill="#C7C1B7" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="8.8" letter-spacing="1.15">OPEN REPOSITORY</text>
-<path d="M316 204H337M331 198L337 204L331 210" stroke="#B8B2A8" stroke-opacity=".75"/>
+<line x1="22" y1="168" x2="338" y2="168" stroke="#FFFFFF" stroke-opacity=".065"/>
+<text x="22" y="190" fill="#7D838C" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10.2" letter-spacing=".95">UNITY 6 · C# · LOCAL LLM</text>
+<text x="22" y="210" fill="#C7C1B7" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10.2" letter-spacing="1.1">OPEN REPOSITORY</text>
+<path d="M316 206H337M331 200L337 206L331 212" stroke="#B8B2A8" stroke-opacity=".75"/>
 </svg>
