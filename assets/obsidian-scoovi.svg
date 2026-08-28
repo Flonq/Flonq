@@ -1,0 +1,28 @@
+<svg width="360" height="220" viewBox="0 0 360 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<title>Scoovi — selected work</title>
+<desc>Editorial project card for Scoovi, a smart shopping assistant.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="360" y2="220"><stop stop-color="#090A0C"/><stop offset="1" stop-color="#0C0D10"/></linearGradient>
+  <linearGradient id="edge" x1="12" y1="12" x2="348" y2="208"><stop stop-color="#EEEAE2" stop-opacity=".20"/><stop offset=".55" stop-color="#B9B4AA" stop-opacity=".10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".05"/></linearGradient>
+</defs>
+<rect width="360" height="220" rx="16" fill="url(#bg)"/>
+<rect x=".75" y=".75" width="358.5" height="218.5" rx="15.25" stroke="url(#edge)" stroke-width="1.5"/>
+
+<text x="22" y="30" fill="#77736C" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9" letter-spacing="1.8">01 / PRODUCT SYSTEM</text>
+
+<!-- restrained radial mark -->
+<g transform="translate(27 49)" stroke="#CFC9BE" stroke-opacity=".72" stroke-width="1">
+  <circle cx="14" cy="14" r="3"/>
+  <circle cx="14" cy="14" r="9" stroke-opacity=".25"/>
+  <path d="M14 0V7M14 21V28M0 14H7M21 14H28M4 4L9 9M19 19L24 24M24 4L19 9M9 19L4 24"/>
+</g>
+
+<text x="22" y="104" fill="#ECE8DF" font-family="Georgia, Times New Roman, serif" font-size="25" letter-spacing=".6">SCOOVI</text>
+<text x="22" y="129" fill="#A9AFB8" font-family="Segoe UI, Arial, sans-serif" font-size="12.5">Smart shopping assistant for discovering</text>
+<text x="22" y="147" fill="#A9AFB8" font-family="Segoe UI, Arial, sans-serif" font-size="12.5">alternative purchasing options.</text>
+
+<line x1="22" y1="164" x2="338" y2="164" stroke="#FFFFFF" stroke-opacity=".065"/>
+<text x="22" y="184" fill="#747A84" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9" letter-spacing="1">REACT · VITE · FASTAPI</text>
+<text x="22" y="204" fill="#C7C1B7" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9" letter-spacing="1.25">VIEW PRODUCT</text>
+<path d="M316 200H337M331 194L337 200L331 206" stroke="#B8B2A8" stroke-opacity=".75"/>
+</svg>
