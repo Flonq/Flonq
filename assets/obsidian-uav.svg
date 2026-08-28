@@ -4,35 +4,24 @@
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="250"><stop stop-color="#08090B"/><stop offset="1" stop-color="#0C0D10"/></linearGradient>
   <linearGradient id="edge" x1="36" y1="20" x2="1160" y2="230"><stop stop-color="#EEEAE2" stop-opacity=".18"/><stop offset=".5" stop-color="#B9B4AA" stop-opacity=".09"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".045"/></linearGradient>
-  <filter id="dotGlow" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect width="1200" height="250" rx="18" fill="url(#bg)"/>
 <rect x=".75" y=".75" width="1198.5" height="248.5" rx="17.25" stroke="url(#edge)" stroke-width="1.5"/>
 
-<text x="38" y="38" fill="#77736C" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9" letter-spacing="1.9">02 / CURRENT BUILD</text>
+<text x="38" y="63" fill="#ECE8DF" font-family="Georgia, Times New Roman, serif" font-size="33" letter-spacing=".7">UAV FLIGHT SIMULATOR</text>
+<text x="38" y="91" fill="#A8AEB7" font-family="Segoe UI, Arial, sans-serif" font-size="14.5">Fixed-wing simulation developed system-by-system in Unity 6.3 LTS and C#.</text>
 
-<g transform="translate(1030 25)">
-  <circle cx="7" cy="7" r="3.2" fill="#EAE1C7" filter="url(#dotGlow)">
-    <animate attributeName="opacity" values=".38;.95;.38" dur="3.8s" repeatCount="indefinite"/>
-  </circle>
-  <text x="20" y="11" fill="#A8A299" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9" letter-spacing="1.5">ACTIVE DEVELOPMENT</text>
-</g>
+<line x1="38" y1="119" x2="1162" y2="119" stroke="#FFFFFF" stroke-opacity=".06"/>
 
-<text x="38" y="92" fill="#ECE8DF" font-family="Georgia, Times New Roman, serif" font-size="32" letter-spacing=".7">UAV FLIGHT SIMULATOR</text>
-<text x="38" y="118" fill="#A8AEB7" font-family="Segoe UI, Arial, sans-serif" font-size="13.5">Fixed-wing simulation developed system-by-system in Unity 6.3 LTS and C#.</text>
+<text x="38" y="149" fill="#7D7972" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10.5" letter-spacing="1.55">CURRENT STAGE</text>
+<text x="38" y="179" fill="#D4CFC5" font-family="Segoe UI, Arial, sans-serif" font-size="15.5" font-weight="600">PHASE 05 · ENGINE &amp; THROTTLE</text>
 
-<line x1="38" y1="142" x2="1162" y2="142" stroke="#FFFFFF" stroke-opacity=".06"/>
+<text x="390" y="149" fill="#7D7972" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10.5" letter-spacing="1.55">NEXT SYSTEMS</text>
+<text x="390" y="178" fill="#A8AEB7" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12.5" letter-spacing=".25">FLIGHT PHYSICS  →  CAMERA  →  TELEMETRY  →  MISSIONS</text>
 
-<text x="38" y="168" fill="#716E68" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="8.7" letter-spacing="1.65">CURRENT STAGE</text>
-<text x="38" y="193" fill="#D4CFC5" font-family="Segoe UI, Arial, sans-serif" font-size="14.5" font-weight="600">PHASE 05 · ENGINE &amp; THROTTLE</text>
+<text x="38" y="221" fill="#C4BEB3" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="1.15">OPEN PUBLIC REPOSITORY  →</text>
 
-<text x="390" y="168" fill="#716E68" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="8.7" letter-spacing="1.65">NEXT SYSTEMS</text>
-<text x="390" y="192" fill="#A8AEB7" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11.5" letter-spacing=".3">FLIGHT PHYSICS  →  CAMERA  →  TELEMETRY  →  MISSIONS</text>
-
-<text x="38" y="225" fill="#BDB7AC" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9.5" letter-spacing="1.2">OPEN PUBLIC REPOSITORY  →</text>
-
-<!-- faint fixed-wing study -->
-<g transform="translate(885 78)" opacity="0.105" stroke="#D7D1C7" fill="none" stroke-width="1.1">
+<g transform="translate(885 58)" opacity="0.105" stroke="#D7D1C7" fill="none" stroke-width="1.1">
   <path d="M101 0L114 40L198 82L198 90L119 78L111 140L101 159L91 140L83 78L4 90L4 82L88 40L101 0Z"/>
   <path d="M101 6V153M88 40L114 40M83 78L119 78M91 140L111 140"/>
   <ellipse cx="101" cy="79" rx="34" ry="70" stroke-dasharray="3 5"/>
