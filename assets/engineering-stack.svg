@@ -1,0 +1,28 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="250"><stop stop-color="#080C12"/><stop offset="1" stop-color="#0B1018"/></linearGradient>
+  <linearGradient id="edge" x1="40" y1="20" x2="1160" y2="230"><stop stop-color="#DDFBFF" stop-opacity=".30"/><stop offset=".4" stop-color="#7DEBFF" stop-opacity=".15"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".06"/></linearGradient>
+  <radialGradient id="g1" cx="0" cy="0" r="1" gradientTransform="translate(170 65) scale(240 130)"><stop stop-color="#7DEBFF" stop-opacity=".09"/><stop offset="1" stop-color="#7DEBFF" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2" cx="0" cy="0" r="1" gradientTransform="translate(620 190) scale(260 120)"><stop stop-color="#5A8CFF" stop-opacity=".07"/><stop offset="1" stop-color="#5A8CFF" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="250" rx="26" fill="url(#bg)"/>
+<rect width="1200" height="250" rx="26" fill="url(#g1)"/>
+<rect width="1200" height="250" rx="26" fill="url(#g2)"/>
+<rect x=".75" y=".75" width="1198.5" height="248.5" rx="25.25" stroke="url(#edge)" stroke-width="1.5"/>
+<line x1="400" y1="34" x2="400" y2="216" stroke="#FFFFFF" stroke-opacity=".07"/>
+<line x1="800" y1="34" x2="800" y2="216" stroke="#FFFFFF" stroke-opacity=".07"/>
+<text x="48" y="52" fill="#7DEBFF" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.4">GAME &amp; INTERACTIVE</text>
+<text x="48" y="95" fill="#F0F4F9" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Unity</text>
+<text x="48" y="132" fill="#F0F4F9" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">C#</text>
+<text x="48" y="190" fill="#758191" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.5">SIMULATION · GAME SYSTEMS</text>
+
+<text x="448" y="52" fill="#8FB0FF" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.4">WEB &amp; INTERFACE</text>
+<text x="448" y="94" fill="#F0F4F9" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">HTML · CSS · JavaScript</text>
+<text x="448" y="132" fill="#F0F4F9" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">React · Vite</text>
+<text x="448" y="190" fill="#758191" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.5">PRODUCT UI · BROWSER EXPERIENCES</text>
+
+<text x="848" y="52" fill="#B29DFF" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.4">WORKFLOW</text>
+<text x="848" y="94" fill="#F0F4F9" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Git · GitHub</text>
+<text x="848" y="132" fill="#F0F4F9" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">VS Code</text>
+<text x="848" y="190" fill="#758191" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.5">VERSIONING · DEVELOPMENT TOOLING</text>
+</svg>
