@@ -8,21 +8,18 @@
 <rect width="360" height="220" rx="16" fill="url(#bg)"/>
 <rect x=".75" y=".75" width="358.5" height="218.5" rx="15.25" stroke="url(#edge)" stroke-width="1.5"/>
 
-<text x="22" y="30" fill="#77736C" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9" letter-spacing="1.8">03 / INTERFACE</text>
-
-<!-- abstract compass mark -->
-<g transform="translate(24 48)" stroke="#CFC9BE" stroke-opacity=".68" stroke-width="1">
+<g transform="translate(24 23)" stroke="#CFC9BE" stroke-opacity=".68" stroke-width="1">
   <circle cx="14" cy="14" r="12"/>
   <path d="M14 0L17.5 10.5L28 14L17.5 17.5L14 28L10.5 17.5L0 14L10.5 10.5L14 0Z"/>
   <circle cx="14" cy="14" r="2" fill="#CFC9BE" fill-opacity=".5" stroke="none"/>
 </g>
 
-<text x="22" y="104" fill="#ECE8DF" font-family="Georgia, Times New Roman, serif" font-size="23" letter-spacing=".5">BRAVE STARTPAGE</text>
-<text x="22" y="129" fill="#A9AFB8" font-family="Segoe UI, Arial, sans-serif" font-size="12.5">A dark browser startpage shaped around</text>
-<text x="22" y="147" fill="#A9AFB8" font-family="Segoe UI, Arial, sans-serif" font-size="12.5">custom lighting, motion and fast access.</text>
+<text x="22" y="89" fill="#ECE8DF" font-family="Georgia, Times New Roman, serif" font-size="23" letter-spacing=".5">BRAVE STARTPAGE</text>
+<text x="22" y="119" fill="#A9AFB8" font-family="Segoe UI, Arial, sans-serif" font-size="13.5">A dark browser startpage shaped around</text>
+<text x="22" y="139" fill="#A9AFB8" font-family="Segoe UI, Arial, sans-serif" font-size="13.5">custom lighting, motion and fast access.</text>
 
-<line x1="22" y1="164" x2="338" y2="164" stroke="#FFFFFF" stroke-opacity=".065"/>
-<text x="22" y="184" fill="#747A84" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="8.8" letter-spacing=".9">HTML · CSS · JAVASCRIPT · VITE</text>
-<text x="22" y="204" fill="#C7C1B7" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="8.8" letter-spacing="1.15">OPEN REPOSITORY</text>
-<path d="M316 200H337M331 194L337 200L331 206" stroke="#B8B2A8" stroke-opacity=".75"/>
+<line x1="22" y1="158" x2="338" y2="158" stroke="#FFFFFF" stroke-opacity=".065"/>
+<text x="22" y="181" fill="#7D838C" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10.2" letter-spacing=".85">HTML · CSS · JAVASCRIPT · VITE</text>
+<text x="22" y="205" fill="#C7C1B7" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10.2" letter-spacing="1.1">OPEN REPOSITORY</text>
+<path d="M316 201H337M331 195L337 201L331 207" stroke="#B8B2A8" stroke-opacity=".75"/>
 </svg>
