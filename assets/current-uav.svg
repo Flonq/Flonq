@@ -19,5 +19,5 @@
 <text x="48" y="219" fill="#DDE5EF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">PHASE 05 · ENGINE &amp; THROTTLE</text>
 <text x="385" y="192" fill="#7F8A99" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10" letter-spacing="1.8">NEXT SYSTEMS</text>
 <text x="385" y="219" fill="#BBC6D4" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13">FLIGHT PHYSICS  →  CAMERA  →  TELEMETRY  →  MISSIONS</text>
-<text x="48" y="249" fill="#6F7B8A" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10" letter-spacing=".65">PRIVATE · PUBLIC RELEASE AFTER THIRD-PARTY ASSET REDISTRIBUTION REVIEW</text>
+<text x="48" y="249" fill="#7DEBFF" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10" letter-spacing=".8">PUBLIC REPOSITORY · GITHUB.COM/FLONQ/UAV-FLIGHT-SIMULATOR  ↗</text>
 </svg>
