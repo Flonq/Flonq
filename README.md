@@ -4,11 +4,9 @@
 
 I build interactive software across simulation, game systems and modern web experiences — with an emphasis on clear architecture and purposeful execution.
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=900&color=58A6FF&vCenter=true&width=620&height=32&lines=Building%3A+UAV+Flight+Simulator;Game+Systems+%C2%B7+AI-assisted+Products+%C2%B7+Web+Experiences" alt="Currently building UAV Flight Simulator" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=58A6FF&vCenter=true&width=520&height=28&lines=Building%3A+UAV+Flight+Simulator;Working+across+Game+%2F+AI+%2F+Web+Systems" alt="Typing animation" />
 </p>
-
----
 
 ## Selected Work
 
@@ -16,28 +14,37 @@ I build interactive software across simulation, game systems and modern web expe
 
 Smart shopping assistant for discovering alternative purchasing options.
 
-**Stack:** React · Vite · FastAPI  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=flat&logo=vite&logoColor=646CFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-20232A?style=flat&logo=fastapi&logoColor=009688)
+
 [View product ↗](https://scoovi.app/)
 
 ### [AI NPC Dialogue System](https://github.com/Flonq/ai-npc-dialogue-system)
 
 Dynamic NPC dialogue and player choices generated through a local language model.
 
-**Stack:** Unity 6 · C# · Local LLM  
+![Unity](https://img.shields.io/badge/Unity-20232A?style=flat&logo=unity&logoColor=FFFFFF)
+![C#](https://img.shields.io/badge/C%23-20232A?style=flat&logo=csharp&logoColor=512BD4)
+![Local LLM](https://img.shields.io/badge/Local_LLM-20232A?style=flat)
+
 [Open repository ↗](https://github.com/Flonq/ai-npc-dialogue-system)
 
 ### [Brave Startpage](https://github.com/Flonq/Brave-Startpage)
 
 A dark browser startpage shaped around custom lighting, motion and fast access.
 
-**Stack:** HTML · CSS · JavaScript · Vite  
-[Open repository ↗](https://github.com/Flonq/Brave-Startpage)
+![HTML](https://img.shields.io/badge/HTML-20232A?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-20232A?style=flat&logo=css&logoColor=663399)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=flat&logo=vite&logoColor=646CFF)
 
----
+[Open repository ↗](https://github.com/Flonq/Brave-Startpage)
 
 ## Current Build
 
 > ### [UAV Flight Simulator](https://github.com/Flonq/uav-flight-simulator)
+>
 > Fixed-wing simulation developed system-by-system in **Unity 6.3 LTS** and **C#**.
 >
 > **Current stage:** Phase 05 · Engine & Throttle  
@@ -45,37 +52,43 @@ A dark browser startpage shaped around custom lighting, motion and fast access.
 >
 > [Open public repository ↗](https://github.com/Flonq/uav-flight-simulator)
 
----
-
 ## Engineering Stack
 
-**Game & Interactive**  
-Unity · C# · Simulation · Game Systems
+**Game & Interactive**
 
-**Web & Interface**  
-HTML · CSS · JavaScript · React · Vite
+![Unity](https://img.shields.io/badge/Unity-20232A?style=flat&logo=unity&logoColor=FFFFFF)
+![C#](https://img.shields.io/badge/C%23-20232A?style=flat&logo=csharp&logoColor=512BD4)
+![C++](https://img.shields.io/badge/C++-20232A?style=flat&logo=cplusplus&logoColor=00599C)
 
-**Workflow**  
-Git · GitHub · VS Code
+**Web & Interface**
+
+![HTML](https://img.shields.io/badge/HTML-20232A?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-20232A?style=flat&logo=css&logoColor=663399)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=flat&logo=vite&logoColor=646CFF)
+
+**Backend & Workflow**
+
+![Python](https://img.shields.io/badge/Python-20232A?style=flat&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-20232A?style=flat&logo=fastapi&logoColor=009688)
+![Docker](https://img.shields.io/badge/Docker-20232A?style=flat&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-20232A?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat&logo=github&logoColor=FFFFFF)
 
 <details>
 <summary><strong>Additional experience</strong></summary>
+
 <br>
 
-Python · FastAPI · Supabase · Docker · C++ · GlistEngine · Electron · Local LLM integrations
+Supabase · GlistEngine · Electron · Local LLM integrations
 
 </details>
-
----
 
 ## About
 
 I build software across **game systems, interactive interfaces and AI-assisted products**. My work focuses on understandable architecture, deliberate technical decisions and software that feels complete rather than merely functional.
 
----
-
 ## Connect
 
 [Email](mailto:mertkaankindar@hotmail.com) · [GitHub](https://github.com/Flonq) · [Scoovi](https://scoovi.app/)
-
-<sub>FLONQ · SOFTWARE ENGINEERING · GAME / AI / WEB SYSTEMS</sub>
