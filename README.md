@@ -18,8 +18,6 @@ Smart shopping assistant for discovering alternative purchasing options.
 ![Vite](https://img.shields.io/badge/Vite-20232A?style=flat&logo=vite&logoColor=646CFF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-20232A?style=flat&logo=fastapi&logoColor=009688)
 
-[View product ↗](https://scoovi.app/)
-
 ### [AI NPC Dialogue System](https://github.com/Flonq/ai-npc-dialogue-system)
 
 Dynamic NPC dialogue and player choices generated through a local language model.
@@ -27,8 +25,6 @@ Dynamic NPC dialogue and player choices generated through a local language model
 ![Unity](https://img.shields.io/badge/Unity-20232A?style=flat&logo=unity&logoColor=FFFFFF)
 ![C#](https://img.shields.io/badge/C%23-20232A?style=flat&logo=csharp&logoColor=512BD4)
 ![Local LLM](https://img.shields.io/badge/Local_LLM-20232A?style=flat)
-
-[Open repository ↗](https://github.com/Flonq/ai-npc-dialogue-system)
 
 ### [Brave Startpage](https://github.com/Flonq/Brave-Startpage)
 
@@ -39,8 +35,6 @@ A dark browser startpage shaped around custom lighting, motion and fast access.
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Vite](https://img.shields.io/badge/Vite-20232A?style=flat&logo=vite&logoColor=646CFF)
 
-[Open repository ↗](https://github.com/Flonq/Brave-Startpage)
-
 ## Current Build
 
 > ### [UAV Flight Simulator](https://github.com/Flonq/uav-flight-simulator)
@@ -49,8 +43,6 @@ A dark browser startpage shaped around custom lighting, motion and fast access.
 >
 > **Current stage:** Phase 05 · Engine & Throttle  
 > **Next:** Flight Physics → Camera → Telemetry → Missions
->
-> [Open public repository ↗](https://github.com/Flonq/uav-flight-simulator)
 
 ## Engineering Stack
 
